@@ -40,4 +40,4 @@ vim.keymap.set('n', '<Esc>', '<cmd>nohlsearch<CR>')
 
 
 --[[	All the stuff managed by lazy	]]
-require 'lazy'
+require 'tap-lazy'
